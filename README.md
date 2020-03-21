@@ -26,7 +26,7 @@ pip install covid19uncle
 ```sh
 from covid19uncle import GlobalCovid19,ThaiCovid19
 
-Example:
+#Example:
 
 data = GlobalCovid19()
 print(data['italy'])
