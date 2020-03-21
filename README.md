@@ -15,7 +15,7 @@
 เราจะติดตั้งผ่านเจ้า pip
 
 ```sh
-pip install coid19_uncle
+pip install coid19uncle
 ```
 
 ง่ายไหมล่ะ
