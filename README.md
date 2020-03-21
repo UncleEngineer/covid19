@@ -24,7 +24,7 @@ pip install coid19_uncle
 - เปิด Python แล้วพิพม์ตามนี้เลย
 
 ```sh
-from covid19_uncle import GlobalCovid19,ThaiCovid19
+from covid19uncle import GlobalCovid19,ThaiCovid19
 
 Example:
 
